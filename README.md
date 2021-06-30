@@ -16,3 +16,5 @@ Add this program calc.asm file 8086 folder.
 ### calc.exe or calc
 
  
+# Output:
+![Output of Program](Calculator in Assembly.PNG)
