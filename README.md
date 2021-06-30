@@ -10,9 +10,9 @@ First download 8086 folder and save this folder in C directory.
 Add this program calc.asm file 8086 folder.
 
 ## Conmands to run this program:
-mount c c:\8086
-c: 
-ml calc.asm
-calc.exe or calc
+### mount c c:\8086
+### c: 
+### ml calc.asm
+### calc.exe or calc
 
  
