@@ -17,4 +17,4 @@ Add this program calc.asm file 8086 folder.
 
  
 # Output:
-![Output of Program](Calculator in Assembly.PNG)
+![Output of Program]("Calculator in Assembly.PNG")
