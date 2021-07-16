@@ -1,7 +1,4 @@
 # Calculator-In-Assembly
-This is a calculator program written in Assembly language.
-
-
 This is a calculator program written in Assembly language It will perform basic math operation, addition, subtraction, multiplication, and division.
 
 ## Requiremnt: 
